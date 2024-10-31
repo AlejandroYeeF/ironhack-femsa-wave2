@@ -1,0 +1,15 @@
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/SolidPrinciplesProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/SolidPrinciplesProject.AssemblyInfoInputs.cache
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/SolidPrinciplesProject.AssemblyInfo.cs
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/SolidPrinciplesProject.csproj.CoreCompileInputs.cache
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/SolidPrinciplesProject.sourcelink.json
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/bin/Debug/net8.0/SolidPrinciplesProject
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/bin/Debug/net8.0/SolidPrinciplesProject.deps.json
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/bin/Debug/net8.0/SolidPrinciplesProject.runtimeconfig.json
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/bin/Debug/net8.0/SolidPrinciplesProject.dll
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/bin/Debug/net8.0/SolidPrinciplesProject.pdb
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/SolidPrinciplesProject.dll
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/refint/SolidPrinciplesProject.dll
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/SolidPrinciplesProject.pdb
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/SolidPrinciplesProject.genruntimeconfig.cache
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/ironhack-femsa-wave2/SolidPrinciplesProject/obj/Debug/net8.0/ref/SolidPrinciplesProject.dll
