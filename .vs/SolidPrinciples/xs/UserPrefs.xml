@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{5A7F7163-59DE-47CA-B025-6E2DBEA9BDEE}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IronhackCourse.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="IronhackCourse.Tests/GlobalUsings.cs" Line="1" Column="1" />
+      <File FileName="IronhackCourse.Tests/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SolidPrinciples">
+            <Node name="IronhackCourse.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SolidPrinciplesProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
