@@ -1,5 +1,14 @@
 ## Analisis de las pruebas originales
 
+Se generan archivos reales simulando un proyecto de .NET, se generan pruebas reales con la biblioteca Moq.
+
+Se generan las siguientes carpetas dentro de Lab3:
+- Interfaces
+- Managers
+- Models
+
+Se generan los 3 archivos para cada una de los ejemplos dentro de IronhackCourse.Tests
+
 ### Autenticación de usuarios
 - La clase tenía una dependencia como se comprueban las credenciales, podemos hacer un mock y depender de una abstracción (interfaz) y probar únicamente authenticate.
 - No hay suficientes pruebas y los nombres no eran nada precisos.
