@@ -1,0 +1,12 @@
+bin/
+obj/
+*.log
+.DS_Store
+.vscode/
+*.suo
+*.
+*.vs/
+IronhackCourse.Tests/bin
+IronhackCourse.Tests/obj
+Lab3/bin
+Lab3/obj
