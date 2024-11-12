@@ -1,7 +1,6 @@
 ﻿using System;
 using Lab3.Interfaces;
 using Lab3.Managers;
-using Moq;
 
 namespace IronhackCourse.Tests.Lab3
 {
