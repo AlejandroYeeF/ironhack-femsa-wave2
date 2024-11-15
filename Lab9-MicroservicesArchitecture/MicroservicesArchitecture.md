@@ -14,8 +14,10 @@
     * Creación de base de datos relacional AWS RDS Maria DB que contiene la información del usuarios.
 * Continuamos con el microservicio Products para gestionar el catálogo de productos e inventario de productos.
     * Requiere una base de datos relacional con dos tablas, una de productos y otra que tenga relación con el inventario de estos productos.
+    * Además se requiere que el microservicio se suscriba a una SQS donde va a recibir eventos de los pedidos de los usuarios, de tal forma que pueda eliminar productos y cantidades de productos del inventario.
 * Seguimos con el microservicio Orders que gestiona los pedidos y transacciones de pagos, pero para poder acceder a los endpoints de este microservicio, en API Gateway necesitamos validar que el usuario tiene un JWT haciendo una validación con la llave pública jwks.
     * Requiere una base de datos relacional con tres tablas relacionadas entre sí, Order, OrderDetail, OrderPaymentDetail.
+    * Requiere la publicación del evento Orden en un EventBus de AWS EventBridge, además de una rule que pueda llevar el evento a una SQS que será consumida por el microservicio Products para que pueda hacer la baja del inventario de los productos en la orden pagada. Tener una cola de mensajes y dejar que lo gestione AWS agrega resiliencia y escalabilidad.
 * Por ultimo la creación del microservicio Soporte para la atención al cliente que genera tickets para que los agentes puedan tomar estos casos, este microservicio también necesita que el usuario haya iniciado sesión para tener el ID del usuario y como medida de seguridad.
     * Se requiere una base de datos relacional para administrar los tickets.
 * Finalmente se realizan las pruebas funcionales, pruebas automatizadas, durante los despliegues a Develop, QA, Stage y Main vamos haciendo pruebas de penetración y hemos creado una integración continua CICD con github actions con Docker, Kubernetes gestionado por AWS con EKS, sus respectivas pruebas SAST y DAST. Además de la creación de la infraestructura como código con Terraform.
